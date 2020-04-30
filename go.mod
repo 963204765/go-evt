@@ -1,3 +1,3 @@
-module github.com/963204764/go-evt
+module github.com/963204765/go-evt
 
 go 1.12
