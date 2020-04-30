@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"go-evt/sid"
+	"github.com/963204765/go-evt/sid"
 )
 
 // Record describes one evt record
