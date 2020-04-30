@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"go-evt/evt"
+	"github.com/963204765/go-evt/evt"
 )
 
 func main() {
