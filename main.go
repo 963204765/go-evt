@@ -1,4 +1,4 @@
-package main
+package go-evt
 
 import (
 	"errors"
